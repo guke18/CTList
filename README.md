@@ -1,4 +1,7 @@
 # CTList (Golang)
+https://www.google.com/amp/s/www.moerats.com/amp/1028
+
+
 - 支持多账户
 - 支持显示文件夹大小
 - 支持每天自动签到
